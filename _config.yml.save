@@ -6,12 +6,12 @@ description: Resume Website
 
 # User settings
 username: Lorem Ipsum
-user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
+user_description: Pen-Test | Red-Team
+user_title: Joshua Lampman
+email: lampmanjosh@gmail.com
+# twitter_username: lampmanjosh
+# github_username:  lampmanjosh
+# gplus_username:  lampmanjosh
 
 # Google-analytics
 google-analytics:
