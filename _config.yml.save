@@ -1,11 +1,11 @@
 # Site settings
-title: Mauricio Urraco
+title: Joshua Lampman
 description: Resume Website
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
+username: lampmanjosh
 user_description: Pen-Test | Red-Team
 user_title: Joshua Lampman
 email: lampmanjosh@gmail.com
