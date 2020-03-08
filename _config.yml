@@ -1,13 +1,13 @@
 # Site settings
 title: Joshua Lampman
-description: Aspiring Cyber S
+description: Aspiring Cyber Security Professional
 # baseurl: "https://www.lampmanjosh.com/" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Joshua Lampman
 user_description: Aspiring Cyber Security Professional
-user_title: Pen-Test | <font color="red">Red</font>-Team
+user_title: Ultimate Goal: Pen-Test | <font color="red">Red</font>-Team
 email: lampmanjosh@gmail.com
 # twitter_username: lampmanjosh
 # github_username:  lampmanjosh
